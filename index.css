@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header {
+    padding: 30px;
+    background: #13354a;
+    font-size: 12px;
+  }
+.hdr_container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 950px;
+    display: flex;
+    align-items: center;
+}
+.logo{
+    
+}
+.hd_content{
+    margin-left: auto;
+    margin-right: auto;
+    height: 20px;
+    width: 600px;
+    
+}
+.hd_h{
+    color: white;
+    font-size: 12px;
+}
+.hd_p{
+    color: white;
+    font-size: 11px;
+}
+.log{
+    color: white;
+    font-size: 25px;
+    height: 15px;
+}
+
+.containerAdd{
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: space-evenly;
+    width: 60rem;
+    height: 300px;
+}
+.Add{
+    width: 230px;
+    height: 200px;
+    border: 1px solid black;
+}
+.containerShoes{
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: space-evenly;
+    height: 1000px;
+    width: 60rem;
+}
+.card{
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.ft_container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 950px;
+    display: flex;
+    align-items: center;
+}
+.ft_p{
+    margin-right: auto;
+    color: gray;
+    display: flex;
+    align-items: center;
+}
